@@ -93,3 +93,30 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+# Mobile Tools for Java (J2ME)
+
+# Package Files #
+!newrelic.jar
+!elastic-apm-agent-1.12.0.jar
+
+
+# Eclipse
+.classpath
+.project
+.settings/
+# Intellij
+.idea/
+*.iml
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+dependency-reduced-pom.xml
+offer-engine-application/dependency-reduced-pom.xml
+logs/
+
+*pom.xml.versionsBackup
