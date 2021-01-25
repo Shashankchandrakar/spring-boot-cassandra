@@ -1,6 +1,7 @@
 package com.football.pojo;
 
 import lombok.Data;
+
 import javax.validation.constraints.NotNull;
 import java.util.UUID;
 
