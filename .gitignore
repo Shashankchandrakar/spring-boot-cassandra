@@ -25,6 +25,8 @@ hs_err_pid*
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
+.idea/
+target/
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -106,7 +108,6 @@ fabric.properties
 .project
 .settings/
 # Intellij
-.idea/
 *.iml
 *.ipr
 
@@ -114,9 +115,7 @@ fabric.properties
 .DS_Store
 
 # Maven
-target/
 dependency-reduced-pom.xml
-offer-engine-application/dependency-reduced-pom.xml
 logs/
 
 *pom.xml.versionsBackup
