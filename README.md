@@ -1,6 +1,6 @@
 # spring-boot-cassandra
-**Spring boot application with apache cassandra**<br/>
-This is test application to get to know more about apache cassandra and how it works<br/>
+**Spring boot application with the apache cassandra**<br/>
+This is test application to get to know more about the apache cassandra and how it works<br/>
 This project contains embedded cassandra for testing
 <br/>
 Steps to build project
